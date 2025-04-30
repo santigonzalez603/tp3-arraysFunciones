@@ -9,7 +9,7 @@ Este trabajo practico se realizo a partir de estos conceptos
 - arrays
 - funciones
 
-* Bucles
+Bucles
 
 - while
 - do while
@@ -20,7 +20,7 @@ Este trabajo practico se realizo a partir de estos conceptos
 - if
 - else
 
-* Funicionalidades de JavaScript
+Funicionalidades de JavaScript
 
 - Math()
 - length
