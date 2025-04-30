@@ -40,9 +40,9 @@ Las herramientas que se utilizaron
 
 ## 💻Como ejecutar el tp3-arrays en tu maquina local
 
-1. Clonar el tp-3 ``` ```
-2. Entrar al archivo ``` ``` y en la etiqueta script elegir el archivo que quiera ver
-3. Ejecutar el ``` ``` de la carpeta creada
+1. Clonar el tp-3 ```https://github.com/santigonzalez603/tp3-arraysFunciones```
+2. Entrar al archivo `index.html` y en la etiqueta script elegir el archivo que quiera ver
+3. Ejecutar el `index.html` de la carpeta creada
 
 ## 👨‍💻Autor
 
