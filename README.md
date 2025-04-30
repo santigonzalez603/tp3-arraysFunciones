@@ -15,7 +15,7 @@ Bucles
 - do while
 - for
 
-* Condicionales
+Condicionales
 
 - if
 - else
